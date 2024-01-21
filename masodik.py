@@ -14,6 +14,7 @@ b = c
 print(a) #ki irom az a -t
 print(a,b)
 print("a valtozo:",a,", b valtozo",b,"c valtozo:",c)
+
 # a=a+1
 # print(a)
 # print("hello")
