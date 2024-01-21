@@ -4,6 +4,7 @@
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 
 print(11)
+print(12)
 
 
 def print_hi(name):
