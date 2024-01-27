@@ -53,6 +53,7 @@ i = 1
 #         osszeg += szam
 #
 #     print("Az első 10 pozitív egész szám összege:", osszeg)
+
 osszeg = 0
 for szam in range(1, 11):
     osszeg += szam
